@@ -1,1 +1,1 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahnazi2002&theme=react&custom_title=My+GitHub+Stats&hide=prs,issues,commits,contribs&include_all_commits=true&show_icons=true)](https://github.com/shahnazi2002)
+
